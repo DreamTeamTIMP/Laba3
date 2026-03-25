@@ -79,9 +79,6 @@ namespace Laba3
 
         }
 
-        private void textBoxUser_KeyDown(object sender, KeyEventArgs e)
-        {
-            UpdateStatusBar();
-        }
+        private void textBoxUser_KeyDown(object sender, KeyEventArgs e) => UpdateStatusBar();
     }
 }

@@ -11,7 +11,15 @@ namespace Laba3Test2
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new LoginForm());
+            try
+            {
+                Application.Run(new LoginForm());
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Критическая ошибка:\n{ex.Message}", "Ошибка",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

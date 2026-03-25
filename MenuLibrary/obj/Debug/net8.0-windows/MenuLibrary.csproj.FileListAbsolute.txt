@@ -9,3 +9,15 @@ C:\Users\1\source\repos\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.dll
 C:\Users\1\source\repos\MenuLibrary\obj\Debug\net8.0-windows\refint\MenuLibrary.dll
 C:\Users\1\source\repos\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.pdb
 C:\Users\1\source\repos\MenuLibrary\obj\Debug\net8.0-windows\ref\MenuLibrary.dll
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\bin\Debug\net8.0-windows\MenuLibrary.deps.json
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\bin\Debug\net8.0-windows\MenuLibrary.dll
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\bin\Debug\net8.0-windows\MenuLibrary.pdb
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.AssemblyInfoInputs.cache
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.AssemblyInfo.cs
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.sourcelink.json
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.dll
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\refint\MenuLibrary.dll
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\MenuLibrary.pdb
+C:\Users\Айдаш\source\repos\DreamTeamTIMP\Laba3\MenuLibrary\obj\Debug\net8.0-windows\ref\MenuLibrary.dll
