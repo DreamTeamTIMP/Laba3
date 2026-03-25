@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Laba3Test2\bin\Debug\net8.0-windows\Laba3Test2.exe
+C:\Users\1\source\repos\Laba3Test2\bin\Debug\net8.0-windows\Laba3Test2.deps.json
+C:\Users\1\source\repos\Laba3Test2\bin\Debug\net8.0-windows\Laba3Test2.runtimeconfig.json
+C:\Users\1\source\repos\Laba3Test2\bin\Debug\net8.0-windows\Laba3Test2.dll
+C:\Users\1\source\repos\Laba3Test2\bin\Debug\net8.0-windows\Laba3Test2.pdb
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.AssemblyInfo.cs
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.dll
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\refint\Laba3Test2.dll
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.pdb
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.genruntimeconfig.cache
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\ref\Laba3Test2.dll
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.LoginForm.resources
+C:\Users\1\source\repos\Laba3Test2\obj\Debug\net8.0-windows\Laba3Test2.csproj.GenerateResource.cache

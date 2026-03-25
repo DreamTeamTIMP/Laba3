@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\AuthLibrary\bin\Debug\net8.0\AuthLibrary.deps.json
+C:\Users\1\source\repos\AuthLibrary\bin\Debug\net8.0\AuthLibrary.dll
+C:\Users\1\source\repos\AuthLibrary\bin\Debug\net8.0\AuthLibrary.pdb
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\AuthLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\AuthLibrary.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\AuthLibrary.AssemblyInfo.cs
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\AuthLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\AuthLibrary.dll
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\refint\AuthLibrary.dll
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\AuthLibrary.pdb
+C:\Users\1\source\repos\AuthLibrary\obj\Debug\net8.0\ref\AuthLibrary.dll
